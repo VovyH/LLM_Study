@@ -18,6 +18,19 @@
 
 ---
 
+## 📚 目录（快速定位你想要学习的内容）
+<details style="color:rgb(128,128,128)">
+| 章节           | 内容 |
+|-------------------------|---------------------------|
+| Tokenization   | 包含各种分词粒度的介绍，以及常见的分词算法讲解和对应代码实现（FMM、BMM、BPE、WordPiece等），包括与分词相关的常见问题                    |
+| LLMs  | 关于从0到1自己手搓一个大模型、训练大模型的基础以及Prompt技术和RAG等              | 
+| Project     | 上海Lab书生·浦语 十佳项目、优秀项目、高票项目学习（作者本人手搓-学习版本）(https://github.com/VovyH/MultiAgent-Search)                    |
+| ...     | ...                   |
+
+</details>
+
+---
+
 ## 🔄 更新内容
 
 <details style="color:rgb(128,128,128)">
