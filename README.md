@@ -31,6 +31,10 @@
 | Project     | 上海Lab书生·浦语 十佳项目、优秀项目、高票项目学习（作者本人手搓-学习版本）(https://github.com/VovyH/MultiAgent-Search) |                   
 | 词嵌入WordEmbedding     | 包括One-Hot编码、共现矩阵、Word2Vec等 |      
 ![alt text](image.png)
+| 位置编码    | 包含常见的位置编码方法（正余弦周期函数、训练、RoPE等） |
+| Attention    | LLM中Attention的几种计算方式（后续会更完整） |   
+| LLM中的超参数    | 详细介绍了大模型中的几种超参数，以及他们的计算方法 |   
+![alt text](image.png)
 </details>
 
 ---
@@ -49,5 +53,6 @@
 | 位置编码知识点     | 位置编码的常见技术（绝对位置编码、相对位置编码）                  | 2025.05.31 |
 | Attention     |自注意力机制的相关内容                  | 2025.6.02 |
 | 损失函数     |补充了一些关于损失的知识点                  | 2025.6.07 |
+| LLM中的超参数    | 详细介绍了大模型中的几种超参数，以及他们的计算方法 | 2025.6.10 |
 </details>
 
