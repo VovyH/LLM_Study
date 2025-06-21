@@ -1,4 +1,4 @@
-# 位置编码 Position Encoding
+-# 位置编码 Position Encoding
 ## 1.介绍
 由于 Transformer 中使用的**自注意力机制（Self-Attention）**不存在顺序这一概念，因此在自注意力机制之前需要加一个机制，能够包含对输入位置信息的理解。
 ![alt text](image.png)
